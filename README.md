@@ -1,2 +1,2 @@
 # sample
-app1
+app2
